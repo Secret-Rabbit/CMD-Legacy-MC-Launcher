@@ -2,12 +2,12 @@
 
 ### ENG
 
-PowerShell-Legacy-Minecraft-Launcher is a Minecraft Launcher that is used to run outdated versions of Minecraft, namely 1.5.2 and below. It does not support the Mojang account system.
+PowerShell-Legacy-Minecraft-Launcher is a Minecraft Launcher that is used to run outdated versions of Minecraft, namely 1.5.2 and below. It does not support the Mojang account system. The launcher uses the old folder hierarchy. It has support for modified versions.
 
-- Running `Download the environment.ps1` checks and downloads all required libraries, natives, and Oracle JDK 8u321.
+- Running `Download environment.ps1` checks and downloads all required libraries, natives, and Oracle JDK 8u321.
 
 ### RUS
 
-PowerShell-Legacy-Minecraft-Launcher – лаунчер Minecraft, который используется для запуска устаревших версий Minecraft, а именно 1.5.2 и ниже. Он не поддерживает аунтификацию с помощью системы аккаунтов Mojang.
+PowerShell-Legacy-Minecraft-Launcher – лаунчер Minecraft, который используется для запуска устаревших версий Minecraft, а именно 1.5.2 и ниже. Он не поддерживает аунтификацию с помощью системы аккаунтов Mojang. Лаунчер использует старую иерархию папок. Имеет поддержку модифицированных версий.
 
-- Запуск `Download the environment.ps1` проверяет и скачивает все нужные библиотеки, natives, а также Oracle JDK 8u321.
+- Запуск `Download environment.ps1` проверяет и скачивает все нужные библиотеки, natives, а также Oracle JDK 8u321.
