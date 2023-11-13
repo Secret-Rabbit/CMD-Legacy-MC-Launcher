@@ -1,3 +1,5 @@
+# This file checks and downloads all the necessary libraries, natives, as well as Oracle JDK 8u321.
+
 $jinput = @{
 	FilePath = "bin"; FileName = "jinput-2.0.5.jar"; FileHash = "39c7796b469a600f72380316f6b1f11db6c2c7c4"
 	FileUrl = "https://libraries.minecraft.net/net/java/jinput/jinput/2.0.5/jinput-2.0.5.jar"
