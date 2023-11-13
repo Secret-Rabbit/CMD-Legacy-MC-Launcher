@@ -7,12 +7,13 @@ CMD-Legacy-MC-Launcher is a Unofficial Minecraft launcher that is used to launch
 ### Installation
 
 1. Clone the repository to the desired location, or download the archive with it and unzip it.
-2. Run `Run.bat`.
-3. Wait for the file download to complete and the command line to close automatically.
-4. Download the game client (e.g. using the links in the version infobox on [Minecraft Wiki](https://minecraft.wiki/)).
-5. Rename the client file to `minecraft.jar` and move it to the path `Launcher Location\.minecraft\bin`.
-6. Open the `Settings.bat` file in a text editor and configure memory allocation, desired nickname and others.
-7. Run `Run.bat` to start the game.
+2. Run PowerShell as administrator and enter the `Set-ExecutionPolicy RemoteSigne` command, which enables PowerShell execution policies, press enter and select option A. Yes to All. (This is needed to download libraries and other things to run the game).
+3. Run `Run.bat`.
+4. Wait for the file download to complete and the command line to close automatically.
+5. Download the game client (e.g. using the links in the version infobox on [Minecraft Wiki](https://minecraft.wiki/)).
+6. Rename the client file to `minecraft.jar` and move it to the path `Launcher Location\.minecraft\bin`.
+7. Open the `Settings.bat` file in a text editor and configure memory allocation, desired nickname and others.
+8. Run `Run.bat` to start the game.
 
 ### Always know that in the settings you can:
 
@@ -30,12 +31,13 @@ CMD-Legacy-MC-Launcher – это неофициальный лаунчер Mine
 ### Установка
 
 1. Клонируйте репозиторий в желаемое место, или скачайте архив с ним и распакуйте.
-2. Запустите `Run.bat`.
-3. Дождитесь завершения скачивания файлов и автоматического закрытия командной строки.
-4. Скачайте клиент игры (например с помощью ссылок в карточках версий на [Minecraft Wiki](https://minecraft.wiki/)).
-5. Переименуйте файл клиента в `minecraft.jar` и переместите по пути `Местоположение лаунчера\.minecraft\bin`.
-6. Откройте файл `Settings.bat` в текстовом редакторе и настройте выделение памяти, желаемый ник и прочие.
-7. Запустите `Run.bat` для запуска игры.
+2. Запустите PowerShell от имени администратора и введите команду `Set-ExecutionPolicy RemoteSigne`, которая включает политику выполнения сценариев PowerShell и нажмите ввод, после выберете вариант A. Для всех. (Это нужно для загрузки библиотек и прочих вещей для запуска игры).
+3. Запустите `Run.bat`.
+4. Дождитесь завершения скачивания файлов и автоматического закрытия командной строки.
+5. Скачайте клиент игры (например с помощью ссылок в карточках версий на [Minecraft Wiki](https://minecraft.wiki/)).
+6. Переименуйте файл клиента в `minecraft.jar` и переместите по пути `Местоположение лаунчера\.minecraft\bin`.
+7. Откройте файл `Settings.bat` в текстовом редакторе и настройте выделение памяти, желаемый ник и прочие.
+8. Запустите `Run.bat` для запуска игры.
 
 ### Всегда знайте, что в настройках можно:
 
